@@ -1,4 +1,17 @@
 - commits:
+    - subject: Update dependency flowzonify to v0.4.5
+      hash: e882785957513629643329b9ca7d33b9916413ba
+      body: |
+        Update flowzonify from 0.0.0 to 0.4.5
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: balena-renovate[bot]
+      nested: []
+  version: 10.2.15
+  title: ""
+  date: 2026-09-15T01:27:39.839Z
+- commits:
     - subject: Update dependency node-raspberrypi-usbboot to v1.1.12
       hash: 29d1b930b67e0787cce3f6a34b75696a8aaab2cc
       body: |
